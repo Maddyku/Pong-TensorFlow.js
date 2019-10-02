@@ -1,5 +1,5 @@
 # Pong-TensorFlow.js
-Pong JS Game with AI opponent paddle using Sequential TensorFlow.js DNN Model for Deep Learning in the Browser. Coded Along with Sentdex on PythonProgrammingNet tutorial (https://pythonprogramming.net/pong-ai-tensorflowjs-tutorial/).
+Pong JS Game with AI opponent paddle using TensorFlow.js Sequential Model for Deep Learning in the Browser. Coded Along with Sentdex on PythonProgrammingNet tutorial (https://pythonprogramming.net/pong-ai-tensorflowjs-tutorial/).
 
 To Play in the browser:
 
